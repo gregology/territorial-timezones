@@ -21,4 +21,4 @@ Simplifying the original multipolygon prior to converting to points and processi
 ![image](https://cloud.githubusercontent.com/assets/1595448/16751956/56dcd0e4-47ab-11e6-891e-48f4f150d65b.png)
 
 #### Actual
-![image](https://cloud.githubusercontent.com/assets/1595448/16752055/3ca6b626-47ac-11e6-969b-af84495e5d66.png)
+[![image](https://cloud.githubusercontent.com/assets/1595448/16752055/3ca6b626-47ac-11e6-969b-af84495e5d66.png)](https://www.openstreetmap.org/#map=12/49.0146/-123.1104)
