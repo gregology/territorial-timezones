@@ -16,8 +16,9 @@ The closest landmass was calculated using [QGIS](http://www.qgis.org/) by simpli
 ### Simplified Voronoi Diagram
 
 Simplifying the original multipolygon prior to converting to points and processing a Voronoi diagram lead to some unfortunate artifacts around complex areas. 
-![image](https://cloud.githubusercontent.com/assets/1595448/16751956/56dcd0e4-47ab-11e6-891e-48f4f150d65b.png)
-Result
 
+#### Result
+![image](https://cloud.githubusercontent.com/assets/1595448/16751956/56dcd0e4-47ab-11e6-891e-48f4f150d65b.png)
+
+#### Actual
 ![image](https://cloud.githubusercontent.com/assets/1595448/16752055/3ca6b626-47ac-11e6-969b-af84495e5d66.png)
-Actual
